@@ -12,7 +12,7 @@ A simple memory matching game where the player must find pairs of matching numbe
 ## How to Play
 
 1. Run the script.
-2. The game will display a grid with hidden numbers represented by '*'.
+2. The game will display a grid with hidden numbers represented by **'*'**.
 3. Enter coordinates (row and column) to reveal two cells per turn.
 4. ry to find matching pairs. If they match, they remain revealed.
 5. If not, they will be hidden again.
