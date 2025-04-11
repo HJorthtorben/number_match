@@ -1,4 +1,5 @@
 import random
+import time
 
 print("Welcome to the Number Match Game!")
 print("Find two matching numbers hidden in the grid!")
