@@ -1,6 +1,6 @@
 # Number Match Game
 
-A simple memory matching game where the player must find pairs of matching numbers on a 4x4 grid.
+A simple memory matching game where the player must find pairs of matching numbers on a **4x4 grid**.
 
 ## Features
 
