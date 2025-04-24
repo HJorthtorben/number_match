@@ -1,5 +1,6 @@
 import random
 
+print("Welcome friends!")
 print("Welcome to the Number Match Game!")
 print("Find two matching numbers hidden in the grid!")
 
