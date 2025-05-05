@@ -1,4 +1,5 @@
 import random
+import operator 
 
 print("Welcome friends!")
 print("Welcome to the Number Match Game!")
