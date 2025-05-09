@@ -10,6 +10,7 @@ A simple memory matching game where the player must find pairs of matching numbe
 ## How to Play
 1. Run the script.
 2. ``` bash python
+   print(' ')
    ```
 3. The game will display a grid with hidden numbers represented by '*'.
 4. Enter coordinates (row and column) to reveal two cells per turn.
